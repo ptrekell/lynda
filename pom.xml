@@ -10,5 +10,9 @@
 
     <packaging>pom</packaging>
 
+    <modules>
+        <module>tdd</module>
+    </modules>
+
 
 </project>
